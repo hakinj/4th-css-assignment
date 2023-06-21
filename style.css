@@ -33,7 +33,7 @@ body{
     font-size: 1.6em;
     font-weight: 500;
     background-color: white;
-    color: #059742fa ;
+    color: #037231fa ;
     width: 120px;
     padding: 40px 60px 10px 10px;
     margin-top: -78px ;
@@ -78,6 +78,9 @@ h1{
     font-size: 4.5rem;
     padding-top: 200px;
     
+}
+.middle-section > .middle-word p{
+    color: #037231fa;
 }
 .middle-section .middle-word p{
     text-align: center;
