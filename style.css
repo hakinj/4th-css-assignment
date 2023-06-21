@@ -1,0 +1,145 @@
+body{
+    margin: 0px;
+    font-family:'Poppins', sans-serif ;
+    text-align: center;
+    color: white;
+
+}
+
+.navigation-Wrapper{
+    background: #059742fa;
+    color: white;
+    height: 30px;
+    padding: 20px 100px;
+    
+   
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+    
+}
+
+.link-wrapper{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.nav-bar > .capacityBay{
+    font-size: 1.6em;
+    font-weight: 500;
+    background-color: white;
+    color: #059742fa ;
+    width: 120px;
+    padding: 40px 60px 10px 10px;
+    margin-top: -78px ;
+    
+    
+    
+    
+    
+ 
+    
+}
+
+.link-wrapper > .nav-link{
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 30px 30px;
+    margin-bottom: 20px;
+    
+    
+}
+.link-wrapper > .nav-link a{
+    text-decoration: none;
+    font-size: 1.4em;
+    color: white;
+
+}
+.middle-section{
+    background-image: url(img/code\ image.JPG);
+    height: 600px;
+    margin-top: -50px;
+    margin-bottom: -100px;
+   
+   
+    background-size: cover;
+    background-blend-mode: overlay;
+    line-height: 50%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+    font-size: 4.5rem;
+    padding-top: 200px;
+    
+}
+.middle-section .middle-word p{
+    text-align: center;
+    font-size: 2em;
+    font-style: italic;
+    
+   
+}
+
+.bottom-section{
+    height: 400px;
+    background: rgb(28, 43, 43);
+    color: white;
+    
+    padding-bottom: 200px;
+    
+}
+
+.text {
+    line-height: 60%;
+    padding-bottom: 40px;
+
+    
+}
+.text p{
+    font-size: 1.5em;
+    font-weight: 100;
+    font-style: italic;
+}
+.social-media{
+   width: 100%;
+   display: flex;
+   justify-content: center;
+
+    
+}
+.social-media > div {
+    padding: 0px 25px 15px 25px;
+    font-size: 2em;
+}
+.contact{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.contact > div {
+    padding: 0px 25px;
+    font-size: 2em;
+}
+hr {
+    border-top: 3px solid green;
+    margin-top: -2px;
+ 
+}
+.footer{
+    height: 100px;
+    background: rgb(28, 43, 43);
+    margin-top: -10px;
+    display: flex;
+    justify-content: center;
+   
+}
+.footer > div{
+    padding: 40px 150px 10px 150px;
+}
